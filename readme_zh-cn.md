@@ -25,7 +25,7 @@
 - 📍 **`backgroundm`** 选项调用至 **`网页 Icon`**
 - 🔲 增加 **`背景毛玻璃`**
 - 🎨 **`主題颜色`** 调整为 **`奶茶色`**
-- 📦 **`CDN`** 透过 [**`多重`**](releases) 使用
+- 📦 **`CDN`** 提供 [**`多重`**](releases) 使用
 - 📺 **`影片播放器`** 更改为 [**`DPlayer`**](https://dplayer.js.org)
 - 🎵 **`音频播放器`** 更改为 [**`APlayer`**](https://aplayer.js.org)
 - 🕓 增加 **`自动恢复上次播放时间`**
@@ -75,7 +75,7 @@
 2. 选择 **`首页`** 页面
 3. 在 **`Update from`** 选择 `Github` `TW527E` `OneManager-php` `master`
 - (仅提供 **`UNPKG`** 、 **`JsDelivr OriginFastly`** 版本)
-4. 点击 **`一鍵更新`**
+4. 点击 **`一键更新`**
 5. 等待更新，完成
 
 ### 🍄 3: 通过 customTheme 选项 (等待 🍄 修复ww)
