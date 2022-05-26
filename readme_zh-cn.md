@@ -114,7 +114,7 @@
 
 1. 登入您的 OneManager 后台，并进入设置
 2. 选择 **`平台变量`** 页面
-3. 在 **`customScript`** 选择内，输入 **`<script>document.getElementById("footer").innerHTML='頁腳內容';</script>`**
+3. 在 **`customScript`** 选择内，输入 **`<script>document.getElementById("footer").innerHTML='页脚内容';</script>`**
 4. 套用设置
 5. 等待缓存刷新，完成 **`(请等待至少30分钟，使customScript选项生效)`**
 </Pre>
